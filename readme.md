@@ -14,3 +14,9 @@ In this project I have Used all the Object Oriented Programming. Learn so much n
 - Javascript Object Oriented Programming
 - creating Class.
 - class inheritance.
+- using private methods and properties in class.
+- accessing local storage and storing data.
+
+## Live project link
+
+[Live Link](https://mapty-js-project.netlify.app/)
